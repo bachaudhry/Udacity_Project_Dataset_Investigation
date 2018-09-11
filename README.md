@@ -1,4 +1,5 @@
-# Udacity Project
+# Udacity Project - Dataset Investigation
+
 ## An Investigation of Firearm Background Checks Using the FBI's NICS and U.S. Census Data
 
 ### Introduction:
