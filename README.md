@@ -36,33 +36,39 @@ Concomitantly, the U.S. Census Bureau's website states:
 
 1. String replace  
 
-https://pandas.pydata.org/pandas-docs/version/0.22/generated/pandas.Series.str.replace.html
+    https://pandas.pydata.org/pandas-docs/version/0.22/generated/pandas.Series.str.replace.html
 
 2. Replacing specific string characters from dataframe 
 
-https://stackoverflow.com/questions/13682044/pandas-dataframe-remove-unwanted-parts-from-strings-in-a-column
+    https://stackoverflow.com/questions/13682044/pandas-dataframe-remove-unwanted-parts-from-strings-in-a-column
 
 3. Changing string percentages to float
-https://stackoverflow.com/questions/50686004/change-column-with-string-of-percent-to-float-pandas-dataframe
+
+    https://stackoverflow.com/questions/50686004/change-column-with-string-of-percent-to-float-pandas-dataframe
 
 4. Dropping characters from DataFrame Index
 
-https://stackoverflow.com/questions/43718432/removing-characters-index-dataframe
+    https://stackoverflow.com/questions/43718432/removing-characters-index-dataframe
 
 4. Merging multiple dataframes together in one go using reduce():
-https://stackoverflow.com/questions/23668427/pandas-joining-multiple-dataframes-on-columns
+
+    https://stackoverflow.com/questions/23668427/pandas-joining-multiple-dataframes-on-columns
 
 5. Plotting a horizontal bar chart
-https://matplotlib.org/api/_as_gen/matplotlib.pyplot.barh.html#matplotlib.pyplot.barh
+
+    https://matplotlib.org/api/_as_gen/matplotlib.pyplot.barh.html#matplotlib.pyplot.barh
 
 6. Matplotlib stacked bar chart demo:
-https://matplotlib.org/gallery/statistics/barchart_demo.html#sphx-glr-gallery-statistics-barchart-demo-py
+
+    https://matplotlib.org/gallery/statistics/barchart_demo.html#sphx-glr-gallery-statistics-barchart-demo-py
 
 7. Seaborn Tutorials:
-https://seaborn.pydata.org/tutorial.html
+
+    https://seaborn.pydata.org/tutorial.html
 
 8. Changing x or y label value exponentiation:
-https://stackoverflow.com/questions/14711655/how-to-prevent-numbers-being-changed-to-exponential-form-in-python-matplotlib-fi
+
+    https://stackoverflow.com/questions/14711655/how-to-prevent-numbers-being-changed-to-exponential-form-in-python-matplotlib-fi
 
 9. Pandas text book:
 
